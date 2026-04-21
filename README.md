@@ -160,7 +160,7 @@ this kind of system can provide a solid foundation for a controlled and progress
 If you need a solution adapted to your business, a Factur-X EN16931 integration,  
 or an autonomous invoicing system without SaaS dependencies, Palks Studio can help.
 
-[![Contact](https://img.shields.io/badge/Contact-Palks%20Studio-0a5645?style=flat)](https://palks-studio.com/en/contact)
+[![Contact](https://img.shields.io/badge/Contact-Palks%20Studio-0095b1?style=flat)](https://palks-studio.com/en/contact)
 
 ---
 
