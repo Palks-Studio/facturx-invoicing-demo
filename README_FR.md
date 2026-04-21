@@ -160,7 +160,7 @@ Pour une mise en conformité, une intégration Factur-X EN16931
 ou la mise en place d’un système de facturation adapté à votre activité,  
 Palks Studio propose des solutions sur mesure.
 
-[![Contact](https://img.shields.io/badge/Contact-Palks%20Studio-0a5645?style=flat)](https://palks-studio.com/fr/contact)
+[![Contact](https://img.shields.io/badge/Contact-Palks%20Studio-0095b1?style=flat)](https://palks-studio.com/fr/contact)
 
 ---
 
