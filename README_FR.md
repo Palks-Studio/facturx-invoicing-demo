@@ -1,7 +1,7 @@
 <p align="center">
   <img src="docs/images/demo_facturx_fr.png"
        alt="Factur-X invoice example — hybrid PDF with embedded XML (EN16931 compliant)"
-       width="1200">
+       width="600">
 </p>
 
 > 🇫🇷 Français | [🇬🇧 English](./README.md)
