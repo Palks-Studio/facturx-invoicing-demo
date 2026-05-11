@@ -51,6 +51,21 @@ Chaque facture produite est :
 
 ---
 
+## Conformité fiscale — mentions légales TVA
+
+Le système détermine et applique automatiquement la mention légale TVA selon la zone du client :
+
+| Situation                                          | Mention générée                                             |
+|----------------------------------------------------|-------------------------------------------------------------|
+| Émetteur non assujetti à la TVA (micro-entreprise) | TVA non applicable, art. 293B du CGI                        |
+| Client UE avec numéro de TVA intracommunautaire    | Autoliquidation — TVA due par le preneur, art. 283-2 du CGI |
+| Client hors UE                                     | Exonération de TVA — art. 262 I du CGI                      |
+
+La mention est intégrée à la fois dans le PDF visible et dans le XML structuré embarqué.  
+Elle n'est pas saisie manuellement — elle est déterminée par le système selon les données du client.
+
+---
+
 ## Approche
 
 Ce projet repose sur une approche volontairement différente des solutions classiques :  
